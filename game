@@ -111,7 +111,7 @@
                     "B) A rich cream or mask that leaves my skin feeling soft."
                 ]
             },
-            // New question added here
+              
             {
                 question: "How much time do you typically spend on your skincare routine?",
                 options: [
